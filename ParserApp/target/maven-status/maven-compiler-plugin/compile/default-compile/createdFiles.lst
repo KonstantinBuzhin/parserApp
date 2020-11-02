@@ -1,0 +1,5 @@
+start\App.class
+threads\WorkingThreadFashionCategory.class
+models\Item.class
+threads\WorkingThreadOtherCategories.class
+mapper\Mapper.class
